@@ -45,6 +45,6 @@ Get the full chain: http://localhost:5001/get_chain
 Check if the chain is valid: http://localhost:5001/is_valid  
 Add Transactions: http://localhost:5001/add_transaction  
 Connect Node: http://localhost:5001/connect_node  
-Replace Chain: http://localhost:5001/  
+Replace Chain: http://localhost:5001/replace_chain
   
 
